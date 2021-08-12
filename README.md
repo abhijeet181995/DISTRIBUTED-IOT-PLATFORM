@@ -48,4 +48,8 @@ The various microservices use [Apache Kafka](https://kafka.apache.org/) for comm
 - Platform can now be accessed on the IP where the application manager is running. `http://<IP>:80`.
 
 ## Screenshots
-
+![image](Login.png)
+![image](Status.png)
+![image](Sensor.png)
+![image](AppUpload.png)
+![image](AppName.png)
